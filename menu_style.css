@@ -1,0 +1,60 @@
+* {
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+}
+
+html, body {
+  font-family: sans-serif;
+  touch-action: manipulation;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+a {
+  color: white;
+}
+
+.links {
+  display: inline-block;
+  text-align: center;
+  background-color: red;
+  width: 32%;
+  height: 90%;
+  font-size: xx-large;
+}
+
+.to_okonkoro {
+  background-color: blue;
+}
+
+.to_itotore {
+  background-color: gold;
+}
+
+.to_iya {
+  background-color: red;
+}
+
+.touched {
+  opacity: 0.5;
+}
+
+.notice {
+  position: absolute;
+  border: 2px solid #EEEEEE;
+  color: #EEEEEE;
+  background: rgba(0, 0, 0, 0.8);
+  opacity: 0.5;
+  width: 80%;
+  left:10%;
+  top:30%;
+  /* margin: 10% 10% 10% 10%; */
+  padding: 10px;
+  text-align: center;
+  font-size: x-large;
+}
