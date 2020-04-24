@@ -1,6 +1,8 @@
 # touch_drums2
 New version of touch_drums
 
+[play here](https://ryjkmr.github.io/touch_drums2/)
+
 コロナウイルス感染予防のために外出できないキューバ音楽愛好家のために。
 バタドラムをスマホやタブレットで遊べるようにしました。
 
